@@ -112,3 +112,6 @@ Amobee, JavaScript Developer, Redwood City, March 2013 - August 2013 (4 months)
 
  * Developed ads in a proprietary ad xml language, and created development tools for abstracting and re-using chunks of xml.
  * I used EJS initially, it was then agreed upon pure xml isn't powerful enough, and I wrote tool with grunt to compile jade to xml.
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/devinrhode2/resume/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
