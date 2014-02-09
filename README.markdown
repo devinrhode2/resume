@@ -9,7 +9,7 @@ Google.com/+DevinRhode2<br>
 Instead of a traditional resume that gives you very little depth into my personality, I'm trying something new and am presenting my education, side projects, work, and other experiences mixed together in a **chronological** story-like fashion. I believe this timeline combined with an interview paints an accurate picture of who I am allowing you to make a very informed hiring decision.
 
 Objective:
-Find work that maximizes my autonomy
+Find work that maximizes my autonomy, allowing me to further develop mastery
 
 ## Skills and project summary:
 
@@ -17,15 +17,18 @@ Find work that maximizes my autonomy
 
 I can work proficiently without reference
 
-Markdown, HTML/HTML5 (especially iframes), CSS (especially selectors), JavaScript, jQuery
+HTML/HTML5, especially iframes, localStorage
+CSS/CSS3, especially selectors, transitions
+JavaScript, most of jQuery, EJS
+git,
+Markdown,
+Jade
 
-CSS3 transitions
-
-localStorage, placeholders
+And PHP if it had some damn conventions...
 
 ### Intermediate
 
-Given the raw api docs, I can quickly make progress using any of these technologies.
+I have used or am familiar with Given the raw api docs, I can quickly make progress using any of these technologies.
 
 PHP, Wordpress
 Bootstrap, Foundation
@@ -37,7 +40,9 @@ HTML5 Geolocation, WebSockets, CSS3 transforms, animations, etc...
 
 ### Once used but heavy reference required
 
-Python, Ruby, Backbone.js
+Python, Ruby, Backbone.js, Rails
+
+Even though Node.js is very popular right now, I would still really like to learn ruby and rails.
 
 ## HISTORY
 
@@ -56,7 +61,7 @@ Python, Ruby, Backbone.js
  * 12th grade: **Studied Computer Science at the University of Minnesota, Duluth**
    - My dad insisted I move out instead of commute two hours everyday. When I turned 18 day the before school started, that's exactly what happened. Out and off to college one year ahead of my peers.
 
-### *Learned how to program\*
+### After learning programming
 
 After I learning how to program fall semester, I started figuring out how to make searching google faster and more streamlined, with a little success (https://www.youtube.com/watch?v=PLZW_NIQKyk). I started learning all things web, and this is the time when my StackOverflow and Github accounts were created: December 2010.
 
@@ -83,6 +88,7 @@ Chrome Extension: Fixed Facebook to show all friends online
 After working mostly on HitMeUp for 
  * Scout, Chrome Extension, TheScoutApp.com, August 2011– November 2012
    - Reformats Google results into a ((two-pane view)) sidebar, opening the first result in the main view. You can view 5 results in 5 clicks, instead of 10 with regular Google
+
    - Clever hacks for framing any website.
 
 I then moved to Minneapolis and worked for a solo founder in an incubator program, but ended up leaving in frustration when he simply wouldn't understand that city and state can be found given a zip code, and that users only need to enter a zip code.
@@ -112,6 +118,3 @@ Amobee, JavaScript Developer, Redwood City, March 2013 - August 2013 (4 months)
 
  * Developed ads in a proprietary ad xml language, and created development tools for abstracting and re-using chunks of xml.
  * I used EJS initially, it was then agreed upon pure xml isn't powerful enough, and I wrote tool with grunt to compile jade to xml.
-
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/devinrhode2/resume/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
-
